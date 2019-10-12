@@ -1,7 +1,6 @@
 import os
 import re
 import requests
-from pprint import pprint
 '''南京邮电大学'NJUPT-CMCC'的网络认证，选择无线来自动获取需要进行认证IP地址，再POST数据包进行网络认证
 '''
 
